@@ -18,6 +18,8 @@
 ✅ **[Lab6-UNION攻击在单列中检索多个值](./Lab6-UNION攻击在单列中检索多个值)**  
 ✅ **[Lab7-查询Oracle数据库类型和版本](./Lab7-查询Oracle数据库类型和版本)**  
 ✅ **[Lab8-查询MySQL和Microsoft数据库类型和版本](./Lab8-查询MySQL和Microsoft数据库类型和版本)**  
+✅ **[Lab9-带条件响应的盲目SQL注入](./Lab9-带条件响应的盲目SQL注入)**  
+✅ **[Lab10-带时间延迟的盲目SQL注入](./Lab10-带时间延迟的盲目SQL注入)** 
 
 ---
 
