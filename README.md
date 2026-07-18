@@ -24,10 +24,10 @@
 ---
 
 ### 🔜 持续更新中...
-下一步计划：**盲注（Blind SQL Injection）**、**XSS（跨站脚本攻击）**、**逻辑漏洞**等实战实验。
+下一步计划：**XSS（跨站脚本攻击）**、**逻辑漏洞**等实战实验。
 
 ## 🛠️ 使用工具
-- **Burp Suite**（抓包与重放）
+- **Burp Suite**（抓包、重放、Intruder 自动化爆破）
 - **Google Chrome / Firefox** 浏览器（调试与 Payload 发送）
 - **PortSwigger Web Security Academy**（漏洞靶场平台）
 - **Markdown + GitHub Pages**（实验笔记归档）
