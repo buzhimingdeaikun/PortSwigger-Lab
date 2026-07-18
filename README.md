@@ -21,6 +21,19 @@
 ✅ **[Lab9-基于条件响应的盲注](./Lab9-基于条件响应的盲注)**  
 ✅ **[Lab10-带时间延迟的盲注](./Lab10-带时间延迟的盲注)** 
 
+### 🛡️ SQL Injection（SQL注入漏洞）
+
+✅ **[Lab1-WHERE子句注入](./SQL%20Injection/Lab1-WHERE子句注入)**  
+✅ **[Lab2-登录绕过](./SQL%20Injection/Lab2-登录绕过)**  
+✅ **[Lab3-UNION攻击确定列数](./SQL%20Injection/Lab3-UNION攻击确定列数)**  
+✅ **[Lab4-UNION攻击查找包含文本的列](./SQL%20Injection/Lab4-UNION攻击查找包含文本的列)**  
+✅ **[Lab5-UNION攻击从其他表获取数据](./SQL%20Injection/Lab5-UNION攻击从其他表获取数据)**  
+✅ **[Lab6-UNION攻击在单列中检索多个值](./SQL%20Injection/Lab6-UNION攻击在单列中检索多个值)**  
+✅ **[Lab7-查询Oracle数据库类型和版本](./SQL%20Injection/Lab7-查询Oracle数据库类型和版本)**  
+✅ **[Lab8-查询MySQL和Microsoft数据库类型和版本](./SQL%20Injection/Lab8-查询MySQL和Microsoft数据库类型和版本)**  
+✅ **[Lab9-带条件响应的盲目SQL注入](./SQL%20Injection/Lab9-带条件响应的盲目SQL注入)**  
+✅ **[Lab10-带时间延迟的盲目SQL注入](./SQL%20Injection/Lab10-带时间延迟的盲目SQL注入)**  
+
 ---
 
 ### 🔓 Access Control（访问控制/越权漏洞） - 共 5 个实验
