@@ -1,9 +1,19 @@
-# PortSwigger 实验室漏洞复现笔记
+# 🛡️ PortSwigger 实验室漏洞复现笔记
 
-> 基于 PortSwigger Web Security Academy 完成的实战实验记录。
-> 包含 Web 安全核心漏洞（SQL注入、访问控制）的完整复现过程、Payload 构造、原理分析与修复方案。
+> 本仓库记录了我在 [PortSwigger Web Security Academy](https://portswigger.net/web-security) 完成的实战漏洞实验。
+> 涵盖 **SQL注入、访问控制、XSS跨站脚本、认证机制** 四大核心领域。
+> 所有实验均包含 **完整的复现截图、Payload/攻击链构造、漏洞原理分析及企业级修复方案**。
 
 ---
+
+## 📂 项目结构概览
+
+```text
+PortSwigger-Lab/
+├── 📁 SQL Injection/          # SQL注入专题（10个实验）
+├── 📁 Access Control/         # 访问控制/越权专题（6个实验）
+├── 📁 XSS/                    # 跨站脚本攻击专题（4个实验）
+└── 📁 Authentication/         # 认证机制专题（4个实验）
 
 ## 📂 已完成实验目录
 
@@ -43,6 +53,15 @@
 ✅ **[Lab3-利用 XSS 绕过 CSRF 防御](./XSS/Lab3-利用%20XSS%20绕过%20CSRF%20防御)**  
 ✅ **[Lab4-将 XSS 映射到 HTML 上下文中，大部分标签和属性被屏蔽](./XSS/Lab4-将%20XSS%20映射到%20HTML%20上下文中，大部分标签和属性被屏蔽)**  
 
+---
+
+🔐 4. Authentication（认证机制漏洞） - 共 4 个实验
+涵盖用户名枚举、暴力破解、密码重置逻辑缺陷、2FA 双重验证绕过、持久化 Cookie 逆向及破解。
+
+✅ Lab1-用户名通过不同回复枚举
+✅ Lab2-密码重置失效逻辑
+✅ Lab3-2FA失效逻辑
+✅ Lab4-暴力破解一个保持登录状态的Cookie
 ### 🔜 持续更新中...
 下一步计划：**XSS（跨站脚本攻击）**、**文件上传漏洞**、**逻辑漏洞**等实战实验。
 
