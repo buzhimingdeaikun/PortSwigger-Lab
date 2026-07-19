@@ -55,15 +55,14 @@ PortSwigger-Lab/
 
 ---
 
-🔐 4. Authentication（认证机制漏洞） - 共 4 个实验
-涵盖用户名枚举、暴力破解、密码重置逻辑缺陷、2FA 双重验证绕过、持久化 Cookie 逆向及破解。
+### 🔐 Authentication（认证机制漏洞）
 
-✅ Lab1-用户名通过不同回复枚举
-✅ Lab2-密码重置失效逻辑
-✅ Lab3-2FA失效逻辑
-✅ Lab4-暴力破解一个保持登录状态的Cookie
-### 🔜 持续更新中...
-下一步计划：**XSS（跨站脚本攻击）**、**文件上传漏洞**、**逻辑漏洞**等实战实验。
+涵盖用户名枚举、暴力破解、密码重置逻辑缺陷、2FA 双重验证绕过及持久化登录 Cookie 逆向破解等典型身份验证逻辑漏洞。
+
+✅ **[Lab1-用户名通过不同回复枚举](./Authentication/Lab1-用户名通过不同回复枚举)**  
+✅ **[Lab2-密码重置失效逻辑](./Authentication/Lab2-密码重置失效逻辑)**  
+✅ **[Lab3-2FA失效逻辑](./Authentication/Lab3-2FA失效逻辑)**  
+✅ **[Lab4-暴力破解一个保持登录状态的Cookie](./Authentication/Lab4-暴力破解一个保持登录状态的Cookie)**  
 
 ## 🛠️ 使用工具
 - **Burp Suite**（抓包、重放、Intruder 自动化爆破）
