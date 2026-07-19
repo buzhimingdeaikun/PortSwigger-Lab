@@ -6,14 +6,7 @@
 
 ---
 
-## 📂 项目结构概览
 
-```text
-PortSwigger-Lab/
-├── 📁 SQL Injection/          # SQL注入专题（10个实验）
-├── 📁 Access Control/         # 访问控制/越权专题（6个实验）
-├── 📁 XSS/                    # 跨站脚本攻击专题（4个实验）
-└── 📁 Authentication/         # 认证机制专题（4个实验）
 
 ## 📂 已完成实验目录
 
