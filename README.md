@@ -61,7 +61,7 @@
 
 涵盖不安全的文件上传绕过、Web Shell 利用、任意文件读取及远程命令执行等致命服务器端漏洞。
 
-✅ **[Lab1-通过 Web Shell 上传远程代码执行](./FileUpload/Lab1-通过%20Web%20Shell%20上传远程代码执行)**  
+✅ **[Lab1-通过 Web Shell 上传远程代码执行](./File Upload/Lab1-通过%20Web%20Shell%20上传远程代码执行)**  
 
 ---
 
