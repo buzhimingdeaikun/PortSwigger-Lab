@@ -1,8 +1,9 @@
 # 🛡️ PortSwigger 实验室漏洞复现笔记
 
 > 本仓库记录了我在 [PortSwigger Web Security Academy](https://portswigger.net/web-security) 完成的实战漏洞实验。
-> 涵盖 **SQL注入、访问控制、XSS跨站脚本、认证机制** 四大核心领域。
+> 涵盖 **SQL注入、访问控制、XSS跨站脚本、认证机制、文件上传与RCE** 五大核心领域。
 > 所有实验均包含 **完整的复现截图、Payload/攻击链构造、漏洞原理分析及企业级修复方案**。
+
 
 ---
 
@@ -53,6 +54,16 @@
 ✅ **[Lab2-密码重置失效逻辑](./Authentication/Lab2-密码重置失效逻辑)**  
 ✅ **[Lab3-2FA失效逻辑](./Authentication/Lab3-2FA失效逻辑)**  
 ✅ **[Lab4-暴力破解一个保持登录状态的Cookie](./Authentication/Lab4-暴力破解一个保持登录状态的Cookie)**  
+
+---
+
+### 📁 File Upload & RCE（文件上传与远程代码执行）
+
+涵盖不安全的文件上传绕过、Web Shell 利用、任意文件读取及远程命令执行等致命服务器端漏洞。
+
+✅ **[Lab1-通过Web Shell上传远程代码执行](./File%20Upload%20&%20RCE/Lab1-通过WebShell上传远程代码执行)**  
+
+---
 
 ## 🛠️ 使用工具
 - **Burp Suite**（抓包、重放、Intruder 自动化爆破）
